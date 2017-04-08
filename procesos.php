@@ -53,8 +53,8 @@
 		$x=explode(";", fgets($file)); // explode: extrae cada item o linea de texto por puntos y comas
                                    // fgets : obtiene una linea de las cadenas de texto
 		?>
-		<div class="row">
-        <div class="col s12 m6">
+		<div class="row valign-wrapper">
+           <div class="col s6 offset-s3 valign">
           <div class="card blue-grey darken-1">
             <div class="card-content white-text">
               <span class="card-title">
