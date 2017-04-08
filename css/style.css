@@ -1,0 +1,113 @@
+#titulo{
+	font-family: 'Righteous', cursive;
+	color: white;
+	font-size: 40px;
+	text-shadow: -3px -3px 3px #D53741, 3px -3px 3px #D53741, -3px 3px 3px #D53741, 3px 3px 3px #D53741
+
+}
+#titulo1,#titulo2,#titulo3,#titulo5{
+	font-family: 'Righteous', cursive;
+	color: white;
+	font-size: 40px;
+	text-shadow: -3px -3px 3px #1BA429, 3px -3px 3px #1BA429, -3px 3px 3px #1BA429, 3px 3px 3px #1BA429;
+	
+}
+#titulo4{
+	font-family: 'Righteous', cursive;
+	color: white;
+	font-size: 45px;
+	text-shadow: -3px -3px 3px #0000DF, 3px -3px 3px #0000DF, -3px 3px 3px #0000DF, 3px 3px 3px #0000DF;
+	
+	
+}
+#titulo5{
+	text-align:center; 
+	color: #fff;
+	font-family: impact;
+	font-size: 60px;
+	letter-spacing: 0;
+	text-shadow: -3px -3px 3px #FF3333, 3px -3px 3px #FF3333, -3px 3px 3px #FF3333, 3px 3px 3px #FF3333;
+}
+#ludica{
+	color:white;
+	text-shadow: -3px -3px 3px #2934CD, 3px -3px 3px #2934CD, -3px 3px 3px #2934CD, 3px 3px 3px #2934CD;
+}
+
+#p_prin {
+	font-family: 'Lobster', cursive;
+	color: white;
+	font-size: 60px;
+	text-shadow: -3px -3px 3px #2934CD, 3px -3px 3px #2934CD, -3px 3px 3px #2934CD, 3px 3px 3px #2934CD;
+}
+
+
+
+h5{
+	font-family: 'Lobster', cursive;
+	color: white;
+	font-size: 30px;
+	text-shadow: -1px -2px 2px #2934CD, 2px -2px 2px #2934CD, -2px 2px 2px #2934CD, 2px 2px 2px #2934CD;
+}
+
+#title{
+/* Titulo principal del formulario */
+	color:black;
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+}
+
+#tit_basica{
+	color:black;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+}
+
+legend{
+	color:black;
+	font-size: 18px;
+	font-family: 'Lobster', cursive;
+	text-align: left;
+
+}
+
+label{
+	font-size: 14px;
+	color:black;
+}
+input{
+	color:black;
+}
+
+#icon1{
+	font-size: 170px;
+	text-align: center;
+	color: #99004C;
+}
+
+#msj_princ{
+	font-family: 'Lobster', cursive; 
+	font-size: 30px;
+	text-align: center;
+}
+
+#lb_prin{
+	font-family: 'Lobster', cursive; 
+	font-size: 20px;
+	text-align: center
+
+}
+
+button{
+	font-family: 'Righteous', cursive;
+}
+
+#contenido {
+	font-family: 'Righteous', cursive;
+	text-align: justify;
+}
+
+
+
+
